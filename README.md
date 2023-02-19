@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+💻   Java
+🌐   HTML5 CSS JavaScript Bootstrap Node.js Angular
+🛢   MySQL MongoDB
+⚙️   Git GitHub Markdown
+🔧   Visual Studio Code Eclipse
 -->
+
